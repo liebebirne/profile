@@ -1,0 +1,23 @@
+全体
+・タグ書く時　順番どうしてますか？何かおすすめはありますか？
+
+6章　HTMLのフォームを理解しよう
+・formタグ　htmlとbody　1行空けるのはなぜ？見やすくするだけ？
+
+8章5
+長いURL、どこで切る？適当に切ったら出なかったためドットとかアンダーバーで切ってみたらできた。
+
+何か決まりはある？
+<!DOCTYPE html>
+<html>
+<body>
+  <h2>東京タワー</h2>
+  <iframe src=
+  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.7590739058264!2d139.
+  74333166525824!3d35.65830708019958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.
+  1!3m3!1m2!1s0x60188bbd9009ec09%3A0x481a93f0d2a409dd!2z5p2x5Lqs44K_
+  44Ov44O8!5e0!3m2!1sja!2sjp!4v1684046808595!5m2!1sja!2sjp"
+   width="500" height="500" style="border:0;" allowfullscreen="" loading="lazy" 
+   referrerpolicy="no-referrer-when-downgrade"></iframe>
+</body>
+</html>
